@@ -1,7 +1,7 @@
 # loan_eligibility_prediction
 This app has been built using Streamlit and can be deployed using Streamlit Community Cloud.
 
-
+https://khra0005-loan-eligibility-model.streamlit.app/
 
 This application predicts whether a loan applicant is eligible for a loan based on various personal and financial characteristics. The model uses machine learning techniques to assist in decision-making for loan approvals.
 
