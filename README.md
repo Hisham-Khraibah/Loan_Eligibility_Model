@@ -46,6 +46,7 @@ The application uses the **Loan Eligibility Dataset**, which includes the follow
   * Confusion Matrix
 
 ## Project Structure
+```
 src/
 │
 ├── data/
@@ -64,6 +65,7 @@ src/
 main.py
 streamlit.py
 requirements.txt
+```
 
 ## Technologies Used
 * **Streamlit**: For building the web application.
